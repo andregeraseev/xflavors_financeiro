@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'xffinanceiro'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E5871779FA04307BE2E04A8B9E874C4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D649624CD3A5462193CB7E093280ADF2 }}
